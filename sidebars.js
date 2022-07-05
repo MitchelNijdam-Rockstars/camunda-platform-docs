@@ -108,6 +108,7 @@ module.exports = {
                     "components/modeler/web-modeler/connectors/available-connectors/index",
                     "components/modeler/web-modeler/connectors/available-connectors/rest",
                     "components/modeler/web-modeler/connectors/available-connectors/sendgrid",
+                    "components/modeler/web-modeler/connectors/available-connectors/slack",
                   ],
                 },
               ],
